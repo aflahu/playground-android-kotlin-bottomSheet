@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">playground-android-kotlin-bottomSheet</string>
+    <string name="tab_text_1">Presistance Bottom Sheet</string>
+    <string name="tab_text_2">Modal Bottom Sheet</string>
+</resources>
